@@ -1,4 +1,6 @@
 # dialogflow-python-chatbot
+dialog + flask + 크롤링
+
 ## 축구 팀 순위 알려줌
 <img src="https://user-images.githubusercontent.com/77336125/121510591-c2c01880-ca22-11eb-815a-7ad5641da962.PNG" width=300px>
 
